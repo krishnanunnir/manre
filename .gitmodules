@@ -1,0 +1,3 @@
+[submodule "manhwa-frontend"]
+	path = manhwa-frontend
+	url = git@github.com:krishnanunnir/manhwa-frontend.git
